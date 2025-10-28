@@ -27,7 +27,7 @@ Each member contributed to research, ideation, and interface design to ensure th
 This tool allowed the team to visually represent user flows, define system architecture, and create an interactive prototype to simulate the platform’s navigation and usability.
 
 
-## :phone: How to Use
+## :star: How to Use
 
 **1. Access the Prototype**
 

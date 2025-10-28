@@ -50,3 +50,5 @@ Recommend strategies or new foods for gradual introduction.
 
 Prototype Exploration
 Use clickable areas to navigate between screens and experience how the final application would function.
+
+## Future Improvements

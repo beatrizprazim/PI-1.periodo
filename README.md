@@ -1,6 +1,6 @@
-## Overview: XXX – Nutritional Support for People with Autism Spectrum Disorder (ASD)
+# Overview: XXX – Nutritional Support for People with Autism Spectrum Disorder (ASD)
 
-The XXX project aims to improve communication between caregivers and healthcare professionals involved in the care of individuals with Autism Spectrum Disorder (ASD).
+### The XXX project aims to improve communication between caregivers and healthcare professionals involved in the care of individuals with Autism Spectrum Disorder (ASD).
 Through a functional prototype developed in Figma, the platform demonstrates how caregivers could register the patient’s daily meals, track food acceptance or refusal, and share this data with professionals before medical appointments.
 
 The main objective is to optimize the information flow and enhance the quality of care, reducing waiting times and helping professionals better understand the patient’s eating behavior in advance.
@@ -50,5 +50,3 @@ Recommend strategies or new foods for gradual introduction.
 
 Prototype Exploration
 Use clickable areas to navigate between screens and experience how the final application would function.
-
-## Future Improvements

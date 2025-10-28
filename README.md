@@ -23,7 +23,7 @@ Each member contributed to research, ideation, and interface design to ensure th
 
 ## :computer: Technology Used
 
-**Figma** – *Used for prototyping, wireframing, and interface design.*
+**Figma** – Used for prototyping, wireframing, and interface design.
 This tool allowed the team to visually represent user flows, define system architecture, and create an interactive prototype to simulate the platform’s navigation and usability.
 
 

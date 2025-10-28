@@ -24,7 +24,7 @@ Each member contributed to research, ideation, and interface design to ensure th
 Figma – Used for prototyping, wireframing, and interface design.
 This tool allowed the team to visually represent user flows, define system architecture, and create an interactive prototype to simulate the platform’s navigation and usability.
 
-## How to Use the Application (Prototype)
+## How to Use
 
 Access the Prototype
 Open the XXX prototype through the provided Figma link.

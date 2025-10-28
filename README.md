@@ -9,13 +9,13 @@ The main objective is to optimize the information flow and enhance the quality o
 
 Erik Guilherme Honorio de Souza – Team Leader / Interface Designer
 
-Member 2 – UX Researcher
+Gabrielle Mendes – UX Researcher
 
-Member 3 – Prototype Designer
+Louise Martins Pereira – Prototype Designer
 
-Member 4 – Documentation Writer
+Beatriz Borba Prazim – Documentation Writer
 
-Member 5 – Support and Testing
+Felipe Araújo – Support and Testing
 
 Each member contributed to research, ideation, and interface design to ensure that the proposed solution is intuitive, inclusive, and functional within the scope of digital prototyping.
 

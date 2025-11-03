@@ -48,7 +48,7 @@ This tool allowed the team to visually represent user flows, define system archi
 *Add notes or comments for the professional.*
 
 
-**3. Professional Navigation**
+**4. Professional Navigation**
 
 *View the patient’s food history;*
 
@@ -57,6 +57,6 @@ This tool allowed the team to visually represent user flows, define system archi
 *Recommend strategies or new foods for gradual introduction.*
 
 
-**4. Prototype Exploration**
+**5. Prototype Exploration**
 
 *Use clickable areas to navigate between screens and experience how the final application would function.*

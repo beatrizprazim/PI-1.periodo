@@ -8,15 +8,15 @@ The main objective is to optimize the information flow and enhance the quality o
 
 ## :pencil: Development Team
 
-**Erik Guilherme Honorio de Souza** – *Team Leader / Interface Designer*
+**Erik Guilherme Honorio de Souza** – *Scrum master*
 
-**Gabrielle Mendes** – *UX Researcher*
+**Gabrielle Mendes** – *Designer*
 
-**Louise Martins Pereira** – *Prototype Designer*
+**Louise Martins Pereira** – *Back-End*
 
-**Beatriz Borba Prazim** – *Documentation Writer*
+**Beatriz Borba Prazim** – *Front-End*
 
-**Felipe Araújo** – *Support and Testing*
+**Felipe Araújo** – *Pesquisador*
 
 Each member contributed to research, ideation, and interface design to ensure that the proposed solution is intuitive, inclusive, and functional within the scope of digital prototyping.
 

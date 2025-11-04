@@ -16,7 +16,7 @@ The main objective is to optimize the information flow and enhance the quality o
 
 **Beatriz Borba Prazim** – *Front-End*
 
-**Felipe Araújo** – *Pesquisador*
+**Felipe Araújo** – *Researcher*
 
 Each member contributed to research, ideation, and interface design to ensure that the proposed solution is intuitive, inclusive, and functional within the scope of digital prototyping.
 

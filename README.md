@@ -1,6 +1,6 @@
-# 🧩 Overview: XXX – Nutritional Support for People with Autism Spectrum Disorder (ASD)
+# 🧩 Overview: Nutritea – Nutritional Support for People with Autism Spectrum Disorder (ASD)
 
-### :rocket: The XXX project aims to improve communication between caregivers and healthcare professionals involved in the care of individuals with Autism Spectrum Disorder (ASD).
+### :rocket: The Nutritea project aims to improve communication between caregivers and healthcare professionals involved in the care of individuals with Autism Spectrum Disorder (ASD).
 Through a functional prototype developed in Figma, the platform demonstrates how caregivers could register the patient’s daily meals, track food acceptance or refusal, and share this data with professionals before medical appointments.
 
 The main objective is to optimize the information flow and enhance the quality of care, reducing waiting times and helping professionals better understand the patient’s eating behavior in advance.
@@ -31,7 +31,7 @@ This tool allowed the team to visually represent user flows, define system archi
 
 **1. Access the Prototype**
 
-*Open the XXX prototype through the provided Figma link.*
+*Open the Nutritea prototype through the provided Figma link.*
 
 
 **2. Start at the Login Screen**
